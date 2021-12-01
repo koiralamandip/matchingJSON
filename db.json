@@ -1,0 +1,22 @@
+{
+  "user": [
+    {
+      "name": "Guest",
+      "id": "1",
+      "score": {
+        "high": 8,
+        "last": 8
+      },
+      "gameplay": 8
+    },
+    {
+      "name": "Mandeep",
+      "score": {
+        "high": 13,
+        "last": 13
+      },
+      "gameplay": 1,
+      "id": "7hXDFvr"
+    }
+  ]
+}
